@@ -1,0 +1,23 @@
+button{
+    background-color: blue;
+    color:red;
+}
+
+.defalt {
+   background-color: #61dafb;
+    color: #fff200;
+}
+
+.red {
+    background-color: #bb00ff;
+    color: #000000;
+}
+
+.disable {
+    background-color: white;
+    color: black;
+}
+
+.blue{
+    background-color:darkblue ;
+}
